@@ -1,0 +1,18 @@
+THINGS TO DO: 
+1. Create two dictionaries called "Pressure_EAST" and "Pressure_WEST" consisting of hydrants pressure of data frames for each month. 
+
+2. Create two dictionaries called "Activations_EAST" and "Activations_WEST" consisting of hydrant status of data frames for each month. 
+
+3. Delete "VASCA_GRANDE NODE"
+
+4. Filter the pressure matrix based on activations. Keep the data if the hydrant is used, delete the data if not. 
+
+5. Find the minimum pressure for each month and store it as a list called "minimum_EAST" and "minimum_WEST". For the non-irrigation season, put a positive infinite number.
+
+6. Create two data frames namely Pressure_EAST_concatenated and Pressure_WEST_concatenated which of consist a pressure value for activated hydrants.
+
+7. Create two data frames namely Activations_EAST_conc and Activations_WEST_conc which consist of activation status of hydrants.
+
+X. Infert every data frame within all four dictionaries. The original MATLAB code uses the X axis as a timestep and the Y axis as hydrant ID. 
+
+
