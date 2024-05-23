@@ -2,7 +2,7 @@
 
 **Project Description**
 
-This project, conducted through the ERASMUS program and in collaboration with Politecnico di Milano, aimed to assist water utilities in Campania, Italy, in optimizing pressure management within their irrigation networks. This was achieved by implementing innovative off-grid automatic Green Valve Systems (GVS) at strategically chosen nodes. The successful implementation resulted in a significant average pressure reduction of 40%.
+This project, conducted through the ERASMUS program and in collaboration with Politecnico di Milano, aimed to assist water utilities in Campania, Italy, in optimizing pressure management within their irrigation networks. This was achieved by implementing innovative Off-grid Automatic System (OAS) and Green Valve Systems (GVS) at strategically chosen nodes. The successful implementation resulted in a significant average pressure reduction of 40%.
 
 **Responsibilities**
 
@@ -20,5 +20,9 @@ This project, conducted through the ERASMUS program and in collaboration with Po
 
 **Contact**
 
-For any further inquiries, please feel free to reach out to me at ignasiusaxel.hutomo@polimi.it
+For any further inquiries, please feel free to reach to: 
+* Stefano Malavasi (Director) - stefano.malavasi@polimi.it
+* Giacomo Ferrarese (Ast. Director) - giacomo.ferrarese@polimi.it
+* Ignasius Axel Hutomo (Water Engineering Consultant & Research Fellow) - ignasiusaxel.hutomo@polimi.it
+* Davide Troiani (Ph.D. Fellow) - davide.troiani@polimi.it
 
