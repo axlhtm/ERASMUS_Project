@@ -17,6 +17,7 @@ This project, conducted through the ERASMUS program and in collaboration with Po
 
 **Publications** 
 
+* 3rd International Joint Conference on Water Distribution Systems Analysis & Computing and Control for the Water Industry (WDSA/CCWI). Rethinking On-Demand Irrigation Systems Using IOT Stand-Alone Technologies. 
 
 **Contact**
 
